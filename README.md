@@ -11,7 +11,7 @@
 Lovely Professional University Punjab
 <hr>
 
-<h2> <a href="https://chaitu785.github.io/Myportfolio.github.io/" target="_blanck"> Visit my Portfolio.. !</a> </h2><br>
+<h2> <a href="https://ransc0rp1on.framer.website" target="_blanck"> Visit my Portfolio.. !</a> </h2><br>
 <br>
 <h2>My Resume</h2>
 
