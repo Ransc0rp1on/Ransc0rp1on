@@ -1,30 +1,25 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dECBf0xnwQKCPZOkiC/giphy.gif" width="200" height="200"/>
 </div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div>
-<h1>👋 Hi, I’m Chaitanya </h1>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Ransc0rp1on&style=flat-square&color=blue" alt=""/></div>
+<h1>👋 Hi, I'm Chaitanya </h1>
 <hr>
 <h2>▂ ▄ ▅ <strong> ETHICAL HACKER </strong> ▅ ▄ ▂</h2>
-<p><h3>[THE QUITRE YOU BECOME : THE MORE YOU ARE ABLE TO HEAR]</h3></p>
+<p><h3>[THE QUIETER YOU BECOME : THE MORE YOU ARE ABLE TO HEAR]</h3></p>
 👑Welcome to my Network👑<br>
 ⏺ Cybersecurity Student👩‍💻<br>
 Lovely Professional University Punjab
 <hr>
 
-<h2> <a href="https://ransc0rp1on.framer.website" target="_blanck"> Visit my Portfolio.. !</a> </h2><br>
-<br>
+<h2> <a href="https://ransc0rp1on.framer.website" target="_blank"> Visit my Portfolio.. !</a> </h2>
 <h2>My Resume</h2>
 
-
-
 <a href="https://drive.google.com/file/d/1Kh4ouPvSoT8sKjo6-T7_cQbDhSeUJRWQ/view?usp=sharing">Click to Download Resume</a>
-
-
 
 <h2>Contact with me</h2>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/chaitanya-madane-2802b5223/">
+  <a href="https://www.linkedin.com/in/ransc0rp1on/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
@@ -39,11 +34,6 @@ Lovely Professional University Punjab
    <a href="https://www.instagram.com/_joy_4_u/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  
-  
-    
-  
-  
 </div>
 <h2> :hammer_and_wrench: Languages and Tools : </h2>
 <div>
@@ -68,24 +58,14 @@ Lovely Professional University Punjab
 <h2>:fire: My Stats :</h2>
 <p align="center">
   <br>
-  <img src="https://streak-stats.demolab.com?user=Chaitu785&theme=dark&hide_border=true&sideNums=15DD00&stroke=00DD1E&background=000000)](https://git.io/streak-stats"/>
+  <img src="https://streak-stats.demolab.com?user=Ransc0rp1on&theme=dark&hide_border=true&sideNums=15DD00&stroke=00DD1E&background=000000" alt="GitHub Streak"/>
 </p>
 <br>
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=Chaitu785=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Chaitu785&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitu785&hide=php&theme=tokyonight" />
-</a>
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=Ransc0rp1on&theme=tokyonight">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ransc0rp1on&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ransc0rp1on&hide=php&theme=tokyonight">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ransc0rp1on&hide=php&theme=tokyonight" />
+  </a>
 </div>
-
-
-
-
-
-
-<!---
-Chaitu785/Chaitu785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
