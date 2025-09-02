@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dECBf0xnwQKCPZOkiC/giphy.gif" width="200" height="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZoNGs3Mmlpa201aGhndHBpZXFqcGN0NXoyNHB2ODVuemVnZXJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="400"/>
 </div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Ransc0rp1on&style=flat-square&color=blue" alt=""/></div>
 <h1>👋 Hi, I'm ransc0rp1on </h1>
 <hr>
 <h2>▂ ▄ ▅ <strong> VAPT ANALYST </strong> ▅ ▄ ▂</h2>
@@ -68,4 +67,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ransc0rp1on&count_private=true&show_icons=true&theme=tokyonight" width="450" height="200"/>
 </div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Ransc0rp1on&style=flat-square&color=blue" alt=""/></div>
 
