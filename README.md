@@ -58,16 +58,14 @@
 </div>
 <br>
 <h2>:fire: My Stats :</h2>
-<p align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Ransc0rp1on&theme=dark&hide_border=true&sideNums=15DD00&stroke=00DD1E&background=000000" alt="GitHub Streak"/>
-</p>
-<br>
+
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Ransc0rp1on&theme=tokyonight">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ransc0rp1on&count_private=true&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ransc0rp1on&hide=php&theme=tokyonight">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ransc0rp1on&hide=php&theme=tokyonight" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Ransc0rp1on&theme=dark&hide_border=true&sideNums=15DD00&stroke=00DD1E&background=000000" alt="GitHub Streak" width="450" height="200"/>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ransc0rp1on&count_private=true&show_icons=true&theme=tokyonight" width="450" height="200"/>
+</div>
+
