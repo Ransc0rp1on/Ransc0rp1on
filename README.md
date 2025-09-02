@@ -2,15 +2,17 @@
   <img src="https://media.giphy.com/media/dECBf0xnwQKCPZOkiC/giphy.gif" width="200" height="200"/>
 </div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Ransc0rp1on&style=flat-square&color=blue" alt=""/></div>
-<h1>👋 Hi, I'm Chaitanya </h1>
+<h1>👋 Hi, I'm ransc0rp1on </h1>
 <hr>
-<h2>▂ ▄ ▅ <strong> ETHICAL HACKER </strong> ▅ ▄ ▂</h2>
+<h2>▂ ▄ ▅ <strong> VAPT ANALYST </strong> ▅ ▄ ▂</h2>
 <p><h3>[THE QUIETER YOU BECOME : THE MORE YOU ARE ABLE TO HEAR]</h3></p>
-👑Welcome to my Network👑<br>
-⏺ Cybersecurity Student👩‍💻<br>
-Lovely Professional University Punjab
-<hr>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=00F729&width=435&lines=Welcome+to+my+Network...." alt="Typing SVG" /></a><br>
+## 💻 What I Do<br>  
+- 🔐 Vulnerability Assessment & Penetration Testing (Web, Mobile, Network, API, Wi-Fi)<br>  
+- ☁️ Cloud Security Reviews & Hardening (AWS, Azure, GCP)<br>  
+- 🛡️ Secure Configuration Reviews (Databases, Firewalls, Servers)<br>  
+- 🧩 Capture The Flag (CTF) Challenge Development for communities & hiring assessments<br>  
+- 📊 Security Audits aligned with compliance frameworks (ISO, SOC2, PCI-DSS)<br>  
 <h2> <a href="https://ransc0rp1on.framer.website" target="_blank"> Visit my Portfolio.. !</a> </h2>
 <h2>My Resume</h2>
 
