@@ -15,7 +15,7 @@
 <h2> <a href="https://ransc0rp1on.framer.website" target="_blank"> Visit my Portfolio.. !</a> </h2>
 <h2>My Resume</h2>
 
-<a href="https://drive.google.com/file/d/1Kh4ouPvSoT8sKjo6-T7_cQbDhSeUJRWQ/view?usp=sharing">Click to Download Resume</a>
+<a href="https://drive.google.com/file/d/1Ng2AEg61t29aybWiYiAfhM6yA_eLSl2r/view?usp=drive_link">Click to Download Resume</a>
 
 <h2>Contact with me</h2>
 
