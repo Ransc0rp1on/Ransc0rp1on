@@ -67,13 +67,42 @@
 ---
 
 ## 🛠️ ARSENAL & TOOLS
+<p align="center">
 
-| | | | |
-|---|---|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="50"/> |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="50"/> |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="50"/> |
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" width="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" width="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" width="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" width="50"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" width="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="50"/> 
+<img src="https://raw.githubusercontent.com/aquasecurity/cloudsec-icons/main/src/Amazon_AWS_Aqua.svg" title="AWS" width="50"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" width="50"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain.svg" title="GitLab" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" width="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="50"/>
 
+
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/VS_Code-B55A30?style=flat&logo=visual-studio-code&logoColor=white&labelColor=black" />
