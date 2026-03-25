@@ -92,6 +92,8 @@
   <img src="https://streak-stats.demolab.com?user=Ransc0rp1on&theme=dark&hide_border=true&sideNums=15DD00&stroke=00DD1E&background=000000" width="450"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Ransc0rp1on&count_private=true&show_icons=true&theme=tokyonight" width="450"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ransc0rp1on&layout=compact&theme=tokyonight&bg_color=0d0015&title_color=bb77ff&text_color=cc99ff" width="450"/>
 </p>
 
 ---
