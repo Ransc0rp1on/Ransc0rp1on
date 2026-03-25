@@ -101,5 +101,5 @@
 </p>
 
 <div align="center">
-  <sub style="color: #ff00ff;">✦ ransc0rp1on · cyber vault </sub>
+  <sub style="color: #ff00ff;"> All rights reserved @Ransc0rp1on </sub>
 </div>
